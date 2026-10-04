@@ -1,5 +1,5 @@
 {
-  "version": "0.6",
-  "dll_url": "https://github.com/N1mer-123/phantom-x8f2k19d/releases/download/v0.6/HantomExtreme-a8f3k29d1.dll",
+  "version": "0.7",
+  "dll_url": "https://github.com/N1mer-123/phantom-x8f2k19d/releases/download/v0.7/HantomExtreme-a8f3k29d1.dll",
   "changelog": ["Fix crash", "Added miss logs", "Fix viewmodels in scope", "Fix Multi-point", "Fix Penetration", "Fix Spin-bot","Added Safe-mode"]
 }
